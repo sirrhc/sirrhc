@@ -8,7 +8,7 @@ Currently dabbling in a custom project involving RAG pipelines and LLM.
 
 ### 🛠 Tech stack
 * **Languages:** JavaScript, PHP, Python, SQL, HTML, CSS
-* **Tools:** GitHub, Replit, Plesk, WPMU, 
+* **Tools:** Git, GitHub, Replit, Plesk, WPMU, 
 * **Frameworks/Libraries:** WordPress, Node.js (barely)
 
 **Specialties:** Plugin Development, API Integration, Performance Optimization
