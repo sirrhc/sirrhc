@@ -1,8 +1,8 @@
 # Ola, I'm Christopher~
 
 ###🌱 Web Dev (aspiring to branch out)
-* For the last 3 years I have specialized in building custom automation tools and WordPress plugins that help businesses scale.
-* Currently dabbling in a custom project involving RAG pipelines and LLM.
+For the last 3 years I have specialized in building custom automation tools and WordPress plugins that help businesses scale.
+Currently dabbling in a custom project involving RAG pipelines and LLM.
 
 ---
 
