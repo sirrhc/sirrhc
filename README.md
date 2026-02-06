@@ -5,6 +5,7 @@ For the last 3 years I have specialized in building custom automation tools and 
 Currently dabbling in a custom project involving RAG pipelines and LLM.
 
 (This profile is still being updated with more repositories of sub projects...)
+
 ---
 
 ### 🛠 Tech stack
