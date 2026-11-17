@@ -36,4 +36,4 @@ adapter-based design, observability (health endpoint, metrics), fault isolation
 and graceful shutdown.
 
 ### 📫 Contact
-**Email:** chris.tangerinee@gmail.com
+**LinkedIn:** www.linkedin.com/in/christopher-tan-94663b219
